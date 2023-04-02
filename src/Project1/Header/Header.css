@@ -1,0 +1,22 @@
+.container1{
+    width: 70vw;
+    height: 55vh;
+    display: flex;
+    justify-content: space-around;
+    background: #FFCD9E;
+    margin: 15vh 30vh 0vh  30vh ;
+}
+.container1 .item1{
+    width: 35vw;
+}
+.container1 .item img{
+    height: 45vh;
+}
+.inputs{
+    height: 4vh;
+    /* background-color: black; */
+
+    margin-right: 3vh;
+    border-radius: 10px;
+    
+}

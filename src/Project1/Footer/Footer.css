@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    width: 70vw;
+    height: 20vh;
+    margin: 0vh 30vh 0vh  30vh ;
+}
+li{
+    list-style: none;
+}
